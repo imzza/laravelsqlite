@@ -60,3 +60,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+#If get Scss Error version 8 of PostCSS
+npm uninstall tailwindcss postcss autoprefixer
+
+npm install tailwindcss@npm:@tailwindcss/postcss7-compat @tailwindcss/postcss7-     compat postcss@^7 autoprefixer@^9
