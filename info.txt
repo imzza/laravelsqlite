@@ -1,0 +1,10 @@
+Personal access client created successfully.
+Client ID: 9414a070-0ceb-4e6d-a413-58193facf2a3
+Client secret: mYuruPLaRx6zDNbIvktWIxcC4IITkckhtOwafj4Z
+
+Password grant client created successfully.
+Client ID: 9414a070-3286-4eaf-9a8a-9c74f84537ae
+Client secret: c1WX8aroHQMjNU7kSPtvrvnCbhprpB8n3wykoian
+
+
+php artisan passport:keys --force
